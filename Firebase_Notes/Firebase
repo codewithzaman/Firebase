@@ -1,0 +1,12 @@
+Firebase is a set of backend cloud computing services.
+What is Firebase ??
+>> Firebase is a product of google which helps developers to build , manage and grow there apps easily.
+>> build apps faster and more secure way
+>> provides services to web , unity , android and ios
+>> Uses NoSql to store the data in database. 
+Features of Firebase : 
+1. Authentication 
+2. Hosting 
+3. Storage 
+4. Cloud Firestore 
+5. FCM (Firebase cloude Messaging )
