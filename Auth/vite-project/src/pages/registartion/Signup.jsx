@@ -1,7 +1,9 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 
 function Signup() {
-   
+    const [email, setEmail] = useState('');
+    const [password, setPassword] = useState('');
     return (
         <div className=' flex justify-center items-center h-screen'>
             <div className=' bg-gray-800 px-10 py-10 rounded-xl '>
